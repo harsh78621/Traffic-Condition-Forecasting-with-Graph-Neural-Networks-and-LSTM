@@ -8,4 +8,4 @@
 The model demonstrates significant improvement over the naive baseline, showcasing its effectiveness in accurately predicting future traffic speeds.
 
 
- ![Anamoly Demo](https://github.com/harsh78621/Timeseries-anomaly-detection-model-in-streaming-online-applications/blob/main/Anamoly.gif?raw=true)
+ ![Anamoly Demo](https://github.com/harsh78621/Traffic-Condition-Forecasting-with-Graph-Neural-Networks-and-LSTM/blob/main/GNN.gif?raw=true)
